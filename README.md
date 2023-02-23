@@ -1,6 +1,8 @@
 # openxuehai
 
 #本项目仅供学习与交流，如有侵权，请联系作者删除
+QQ：1339272036
+Gmail：huangqiyiyyds@Gmail.com
 
 设备型号：SM-P200
 项目仓库里有学海最新的软件
